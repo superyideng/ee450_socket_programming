@@ -1,6 +1,6 @@
 1. Full Name : Yi Deng
 
-2. Student ID : 9696485532
+2. Student ID : --------
 
 3. What I have done in the assignment : 
 	I have implemented a computing system with four components, client, aws, serverA, serverB, in it. Firstly, the client issues tasks to aws server, then aws splits and forward tasks to serveA and serverB. After receiving responses, the aws forwards messages back to the client. 
